@@ -1,0 +1,2349 @@
+{
+  "_hinweis": "Pflegedatei der Website. Neue oder geänderte Unterlage: Eintrag in documents ergänzen (zone, title, description, grade, kind, status, files mit viewUrl). Zonentexte stehen in zones, die Startseite zusätzlich in narrative. Einträge mit internalOnly dürfen keine viewUrl tragen. Keine Dokumentdateien in dieses Repository legen.",
+  "meta": {
+    "name": "Satchifunga",
+    "product": "Deal Data Room",
+    "entity": "Ares Maximus LDA",
+    "principal": "Konstantin Richard Sécrit",
+    "stand": "17.11.2026 (Europe/Berlin)",
+    "version": "v1.0",
+    "classification": "Vertraulich",
+    "banner": "ENTWURF – Freigabe an Investoren erst nach Gate 1 sowie NDA/KYC",
+    "geology": "Explorationsziel ca. 28.000–180.000 ct, keine Ressource.",
+    "standard": "SAMREC/CRIRSCO",
+    "gate": "Gate 1 ist nicht erreicht.",
+    "contact": "Kontakt: schriftlich an den Raumverantwortlichen Konstantin Richard Sécrit, Ares Maximus LDA. Eine Telefonnummer wird in diesem Raum nicht veröffentlicht. Die Drive-Freigabe erfolgt durch ihn je E-Mail-Adresse.",
+    "limits": "Ein klassischer virtueller Datenraum ist das nicht. Elektronisches NDA-Gating, Wasserzeichen, Prüfprotokolle, Mehrfaktor-Anmeldung, automatische Ablaufdaten, Aktivitätsberichte und ein Formular für Zugangsanträge sind in dieser Fassung nicht umgesetzt. Der Schutz der Dateien liegt bei der zugangsbeschränkten Ablage in Google Drive. Diese Website ist die Halle und das Inhaltsverzeichnis.",
+    "closing": "",
+    "driveNote": "Ansicht in Google Drive. Ohne Freigabe durch den Raumverantwortlichen bleibt die Datei gesperrt."
+  },
+  "lobbySheet": {
+    "kicker": "Lobby / Teaser · Kurzprofil · ENTWURF",
+    "runningHead": "Satchifunga DDR · Datenraumpaket v1.0",
+    "title": "Kurzprofil",
+    "subtitle": "Alluviales Diamantprojekt · Provinz Lunda Sul, Angola",
+    "stamp": "ENTWURF – Freigabe erst nach Gate 1 (alle 26 Prio-A-Punkte)",
+    "lead": "Dieses Blatt ist anonymisiert. Es enthält keine Unternehmensnamen, keine Personenangaben und keine Bewertungen. Es darf einem Investor erst übergeben werden, wenn Phase 1 abgeschlossen ist (alle 26 vorrangigen Punkte) und ein NDA sowie eine KYC-Prüfung vorliegen.",
+    "rows": [
+      {
+        "label": "Land und Region",
+        "text": "Angola, Provinz Lunda Sul."
+      },
+      {
+        "label": "Vorhaben",
+        "text": "Prospektion auf sekundäre (alluviale) Diamantvorkommen."
+      },
+      {
+        "label": "Rechtlicher Stand",
+        "text": "Es bestand ein Prospektionstitel. Er ist am 15.03.2026 abgelaufen. Ein Betriebstitel bestand nicht und wurde nie erteilt. Inhaberin des Titels war eine staatliche Bergbaugesellschaft; der private Projektpartner war beteiligt, aber nicht Titelinhaber. Eine Verlängerung ist nicht belegt. Ein Neuantrag ist geplant."
+      },
+      {
+        "label": "Geologie",
+        "text": "Explorationsziel ca. 28.000–180.000 ct, keine Ressource, keine Reserve. Die Angabe ist konzeptionell und nicht von einer Competent Person nach SAMREC/CRIRSCO geprüft. Es gibt keine Bohrungen und keine Großprobe. Die Zahl darf nicht als Ressource, Reserve oder Bewertungsgrundlage verwendet werden."
+      },
+      {
+        "label": "Projektstatus",
+        "text": "Das Vorhaben ruht. Gesucht wird ein Partner für den Neuantrag und die weitere, regelgerechte Exploration."
+      }
+    ],
+    "excludesTitle": "Was dieses Blatt nicht enthält",
+    "excludes": "Keine Ressourcen- oder Reserveausweise, keine Unternehmens- oder Projektnamen, keine Investitions- oder Unternehmenswerte, keine Lizenznummern und keine Koordinaten.",
+    "footer": "Grundlage: interne Faktenprüfung Stand 17.11.2026. Alle Angaben ohne Gewähr bis zur Bestätigung durch die zuständigen angolanischen Behörden. Wochen- und Gate-Angaben im übrigen Datenraum sind Richtwerte."
+  },
+  "nda": {
+    "stepsTitle": "So entsteht der Zugang",
+    "steps": [
+      "Vor Gate 1 geht keine Projektunterlage und auch nicht das Kurzprofil an einen Investor. Die einzige Ausnahme ist die reine Anforderung von NDA- und KYC-Unterlagen, ohne Übergabe von Projektdaten.",
+      "Beide Seiten unterzeichnen ein NDA mit diesem Investor. Dieser Raum enthält keine selbst erstellte NDA-Vorlage. Bestehende Vertraulichkeitsvereinbarungen Dritter in Zone 02.3 ersetzen kein Investor-NDA.",
+      "Die KYC-Prüfung dieses Investors wird abgeschlossen: Identität, wirtschaftlich Berechtigter und Herkunft der Mittel, im Sinne der FATF-Empfehlungen.",
+      "Gate 1 muss zusätzlich erreicht sein: alle 26 Punkte mit Priorität A. Gate 1 ist nicht erreicht.",
+      "Erst danach schaltet Konstantin Richard Sécrit (Konni) den Google-Drive-Zugang für die benannte E-Mail-Adresse frei. Diese Website speichert keine Dokumentdateien."
+    ],
+    "contact": "Kontakt: schriftlich an den Raumverantwortlichen Konstantin Richard Sécrit, Ares Maximus LDA. Eine Telefonnummer wird in diesem Raum nicht veröffentlicht. Die Drive-Freigabe erfolgt durch ihn je E-Mail-Adresse.",
+    "limitsTitle": "Was diese Fassung nicht ist",
+    "limits": "Ein klassischer virtueller Datenraum ist das nicht. Elektronisches NDA-Gating, Wasserzeichen, Prüfprotokolle, Mehrfaktor-Anmeldung, automatische Ablaufdaten, Aktivitätsberichte und ein Formular für Zugangsanträge sind in dieser Fassung nicht umgesetzt. Der Schutz der Dateien liegt bei der zugangsbeschränkten Ablage in Google Drive. Diese Website ist die Halle und das Inhaltsverzeichnis."
+  },
+  "narrative": [
+    {
+      "id": "satchifunga-ddr-deal-data-room",
+      "title": "Satchifunga DDR · Deal Data Room",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "ENTWURF – Freigabe an Investoren erst nach Gate 1 (alle 26 Prio-A-Punkte erledigt) plus NDA/KYC"
+        },
+        {
+          "type": "p",
+          "text": "Stand 17.11.2026 (Europe/Berlin) · Vertraulich · v1.0"
+        }
+      ]
+    },
+    {
+      "id": "zweck",
+      "title": "1. Wozu dieser Raum da ist",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Dieser Online-Datenraum folgt dem DDR-Konzept (Deal Data Room): kontrollierte Zonen vom Teaser bis zur Transaktionsführung. Er macht die vorhandene Aktenlage lesbar, zeigt, was belastbar ist, was fehlt, und was nicht gesagt werden darf. Er ist keine Verkaufsunterlage und kein Information Memorandum – dieses folgt erst nach Gate 2."
+        },
+        {
+          "type": "p",
+          "text": "Der Ordner ist privat. Eine Freigabe erfolgt ausschließlich durch den Raumverantwortlichen und gezielt an benannte Personen. Die im DDR-Konzept vorgesehenen Plattformfunktionen (elektronisches NDA-Gating, Wasserzeichen, Prüfprotokolle, Mehrfaktor-Anmeldung, automatische Ablaufdaten, Aktivitätsberichte, Zugangsantrag) sind in dieser Drive-Fassung nicht umgesetzt."
+        }
+      ]
+    },
+    {
+      "id": "gates",
+      "title": "2. Gate-Status",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Gate 1 ist nicht erreicht. Deshalb gilt die Gating-Regel aus Ablaufplan v1.0, Abschnitt 1.3, unverändert:"
+        },
+        {
+          "type": "ol",
+          "items": [
+            "Keine Projektunterlage und auch nicht das Kurzprofil gehen an Investoren, bevor alle 26 Punkte mit Priorität A erledigt sind.",
+            "Danach erst: unterzeichnetes NDA und abgeschlossene KYC-Prüfung des Investors.",
+            "Erst dann: Teaser auf Grundlage der geprüften Fakten, anschließend Letter of Intent bzw. Expression of Interest.",
+            "Information Memorandum und Technical Report einer Competent Person nach SAMREC/CRIRSCO erst nach Gate 2."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Einzige Ausnahme vor Gate 1: die reine Anforderung von NDA- und KYC-Unterlagen beim Investor, ohne Übergabe von Projektdaten."
+        }
+      ]
+    },
+    {
+      "id": "fakten",
+      "title": "3. Lobby – Kurzprofil (anonymisierte Fakten)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Die folgenden Sätze entsprechen dem Kurzprofil und dem Faktendokument v1.1. Keine Unternehmens- oder Personenangaben, keine Bewertungen. Alle Angaben ohne Gewähr bis zur Bestätigung durch die zuständigen angolanischen Behörden."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Thema",
+            "Aussage",
+            "Einordnung"
+          ],
+          "rows": [
+            [
+              "Land und Region",
+              "Angola, Provinz Lunda Sul.",
+              "Fakt"
+            ],
+            [
+              "Vorhaben",
+              "Prospektion auf sekundäre (alluviale) Diamantvorkommen.",
+              "Fakt"
+            ],
+            [
+              "Rechtlicher Stand",
+              "Es bestand ein Prospektionstitel, ausgestellt auf ENDIAMA Mining. Er ist am 15.03.2026 abgelaufen. Eine Verlängerung ist nicht belegt. Ein Betriebstitel wurde nie erteilt. Der private Projektpartner war beteiligt, aber nicht Titelinhaber. Ein Neuantrag ist geplant und kann nicht allein durch Ares Maximus gestellt werden.",
+              "Fakt"
+            ],
+            [
+              "Geologie",
+              "Explorationsziel ca. 28.000–180.000 ct, keine Ressource. Die Angabe ist konzeptionell und nicht von einer Competent Person nach SAMREC/CRIRSCO geprüft. Es gibt keine Bohrungen und keine Großprobe. Die Zahl darf nicht als Ressource, Reserve oder Bewertungsgrundlage verwendet werden.",
+              "konzeptionelle Angabe, keine Ressource"
+            ],
+            [
+              "Projektstatus",
+              "Das Vorhaben ruht. Gesucht wird ein Partner für den Neuantrag und die weitere, regelgerechte Exploration.",
+              "Fakt"
+            ],
+            [
+              "Umwelt",
+              "Studien von Januar 2021 liegen als Entwürfe vor. Eine Umweltlizenz oder ein Einreichungsnachweis ist nicht belegt.",
+              "Annahme (Entwürfe, Genehmigung ungeklärt)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "trennung",
+      "title": "4. Trennung von Fakt, Annahme und Behauptung",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Das DDR-Konzept verlangt eine klare Trennung. In diesem Raum gilt, angelehnt an das Source Register:"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Fakt – durch die vorliegende Unterlage belegt (amtliche Urkunde, unterzeichneter Vertrag oder sonstiger nachvollziehbarer Beleg).",
+            "Annahme – entwurflich, ungeprüft oder unternehmensseitig, ohne behördliche Bestätigung (zum Beispiel die Umweltstudien 2021 ohne belegte Einreichung; der unsignierte Plan Block 6a ist eine Unternehmensangabe, kein genehmigter Betriebsplan).",
+            "Behauptung – nicht als belegt zu behandeln. In diesem Datenraum ist keine Unterlage als Behauptung eingestuft. Ältere Werbe-, Bewertungs- und Konzepttexte sind bewusst nicht enthalten.",
+            "Arbeitsdokument – interne Fassung, Übersetzung, Auszugzusammenstellung oder Checkliste; nicht die verbindliche Urkunde."
+          ]
+        },
+        {
+          "type": "h",
+          "text": "Verlässlichkeitsgrad"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Grad",
+            "Bedeutung"
+          ],
+          "rows": [
+            [
+              "A",
+              "Amtliche oder unterzeichnete Unterlage (oder deren erkennbare Abbildung bzw. Kopie)."
+            ],
+            [
+              "B",
+              "Unternehmensdokument oder Fachbericht ohne amtlichen Charakter."
+            ],
+            [
+              "C",
+              "Entwurf, Übersetzung, interne Arbeitsunterlage oder unbelegte Fassung."
+            ]
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Der Verlässlichkeitsgrad beschreibt die Art der Unterlage, nicht die wirtschaftliche Attraktivität des Vorhabens. Die Spalte „Link“ führt zur jeweiligen Datei im Google-Drive-Ordner (Ansicht)."
+        }
+      ]
+    },
+    {
+      "id": "zonen",
+      "title": "5. Zonenüberblick",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Der Weg durch den Raum folgt dem DDR-Konzept: Lobby / Teaser → NDA-Gate → Deal Room → Q&A-Desk → Deal-Desk → Lückenregister → Quellenregister / Disclosure."
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Zone",
+            "Ordner",
+            "Inhalt",
+            "Zugang"
+          ],
+          "rows": [
+            [
+              "00 Lobby / Teaser",
+              "`00_Lobby_Teaser`",
+              "Nur das anonymisierte Kurzprofil mit Entwurf-Stempel.",
+              "Erst nach Gate 1 plus NDA/KYC."
+            ],
+            [
+              "01 NDA-Gate",
+              "`01_NDA_Gate`",
+              "Zugangsregeln, Terms of Access, Gating-Regel. Keine NDA-Vorlage.",
+              "Zugangsregeln; keine Projektbelege."
+            ],
+            [
+              "02 Deal Room (02.1–02.6)",
+              "`02_Deal_Room`",
+              "Belege: Titel, Gesellschaft, Verträge, Geologie, Umwelt, Finanzen.",
+              "Nur nach Gate 1 sowie NDA und KYC."
+            ],
+            [
+              "03 Q&A-Desk",
+              "`03_QA_Desk`",
+              "44 Kritiker-Fragen als Q&A-Log.",
+              "Interne Prüfungsarbeit."
+            ],
+            [
+              "04 Deal-Desk",
+              "`04_Deal_Desk`",
+              "Ablaufplan, Gate-Übersicht, Entwurf der Anfrage an Sansão Augusto.",
+              "Interne Deal-Führung."
+            ],
+            [
+              "05 Lückenregister",
+              "`05_Gap_Register`",
+              "Offene Punkte und fehlende Unterlagen (Checkliste v1.1).",
+              "Teil der transparenten Aktenlage."
+            ],
+            [
+              "06 Quellenregister / Disclosure",
+              "`06_Source_Register_und_Disclosure`",
+              "Faktendokument, Source Register, Disclosure-Memo; Gesamtbewertung nur intern.",
+              "Interne Zone, nicht zur Weitergabe an Investoren."
+            ],
+            [
+              "Index",
+              "`00_Index`",
+              "Gesamtindex und Manifest.",
+              "Arbeitsverzeichnis."
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unterlagen",
+      "title": "6. Inhaltsverzeichnis der Unterlagen",
+      "blocks": []
+    },
+    {
+      "id": "luecken",
+      "title": "7. Was in diesem Raum fehlt (Kurzüberblick)",
+      "blocks": [
+        {
+          "type": "p",
+          "text": "Ergänzend gilt die vollständige Due-Diligence-Anforderungsliste v1.1 (76 Punkte) in Zone 05. Stand 17.11.2026."
+        },
+        {
+          "type": "p",
+          "text": "Behördenpapiere, die fehlen"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Aktuelle Certidão do Registo Comercial der Ares Maximus LDA sowie der erwähnte Auszug vom 23.04.2021.",
+            "Nachweis der Steuernummer NIF 5000208205 und Unbedenklichkeitsbescheinigung der AGT.",
+            "Quittungen über Flächen- und Aufsichtsgebühren sowie die Caução seit 2021.",
+            "Eingangsbestätigungen der Halbjahres- und Tätigkeitsberichte.",
+            "Umweltlizenz oder Behördenkorrespondenz zum Umweltpaket 2021.",
+            "Schreiben oder Bescheide von ANRM, ENDIAMA oder dem Ministerium an Ares, einschließlich zum Titelablauf.",
+            "Veröffentlichung des Despacho 247/2020 im Diário da República.",
+            "Volltexte der Despachos 412/15 und 2530/20.",
+            "Originalurkunde des Prospektionstitels (vorhanden ist nur ein Scan), einschließlich aktueller Abschrift aus dem Livro de Concessões.",
+            "Erneuerungen von Registo Mineiro und Alvará, sofern erfolgt."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Lücken in den vorhandenen Urkunden"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Im CIM-Scan fehlen der volle Text von Anexo H (Statuten) und Anexo I (Gesellschaftervereinbarung); die Seitenfolge ist nicht die logische Originalreihenfolge.",
+            "Ein aktueller Nachweis, dass das Gelände frei von Minen und Blindgängern ist, fehlt.",
+            "Dokumentierte Gespräche mit den Gemeinden, eine Kleinschürfer-Erhebung, ein aktueller Lageplan der bereits gestörten Flächen und ein Wiederherstellungsplan mit Flächen, Kosten und Zeit fehlen als belastbare Fassungen."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Bewusst nicht in diesem Raum"
+        },
+        {
+          "type": "ul",
+          "items": [
+            "Information Memorandum – folgt nach Gate 2 (Priorität B / Phase 2).",
+            "Ältere Pitches, Whitepaper, Webtexte und Bestätigungsschreiben – sie enthalten unzulässige Aussagen und werden nicht mitgeführt."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "regeln",
+      "title": "8. Nutzungsregeln",
+      "blocks": [
+        {
+          "type": "ul",
+          "items": [
+            "Verbindlich sind amtliche und unterzeichnete Originale in portugiesischer Sprache. Übersetzungen und Abschriften sind nur Arbeitsfassungen.",
+            "Die englische CIM-Übersetzung in Zone 02.3 ist fehlerhaft und darf nicht herausgegeben oder verwendet werden.",
+            "Maschinelle Übersetzungen der Umweltstudien stehen in einem eigenen Unterordner und sind als solche gekennzeichnet.",
+            "Maßgebliche Geologieaussage: Explorationsziel ca. 28.000–180.000 ct, keine Ressource. Standard: SAMREC/CRIRSCO.",
+            "Der Titel war ein Prospektionstitel der ENDIAMA Mining und ist am 15.03.2026 abgelaufen. Ein Betriebstitel wurde nie erteilt.",
+            "Es gelten die Sprachregeln des Disclosure Boundary Memo (Zone 06): keine Ressource, keine Reserve, keine Bewertungen im Milliardenbereich, keine unbelegten Investitionssummen als nachgewiesen darstellen.",
+            "Die Gesamtbewertung v1.0 in Zone 06 ist eine interne Prüfschrift und nicht zur Weitergabe an Investoren bestimmt; sie ist in dieser Startseite nicht verlinkt.",
+            "Der Empfänger darf Unterlagen nicht ohne Zustimmung an Dritte weitergeben."
+          ]
+        },
+        {
+          "type": "p",
+          "text": "Grundlage: Faktendokument v1.1 und Source Register, Stand 17.11.2026. Keine neuen Tatsachen. Alle Angaben ohne Gewähr bis zur Bestätigung durch die zuständigen angolanischen Behörden. Wochen- und Gate-Angaben sind Richtwerte."
+        }
+      ]
+    }
+  ],
+  "zones": [
+    {
+      "id": "index",
+      "code": "00",
+      "short": "Index",
+      "nav": "Index",
+      "title": "0 Index",
+      "href": "00_Index/",
+      "parent": null,
+      "hall": "side",
+      "order": 0,
+      "folder": "00_Index",
+      "access": "Arbeitsverzeichnis.",
+      "intro": [
+        "Maschinenlesbarer und gesetzter Gesamtindex dieses Datenraums. Dient der Orientierung und einer späteren Neuordnung, falls sich das DDR-Konzept ändert."
+      ],
+      "tone": null,
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "lobby",
+      "code": "00",
+      "short": "Lobby",
+      "nav": "Lobby",
+      "title": "00 Lobby / Teaser",
+      "href": "00_Lobby_Teaser/",
+      "parent": null,
+      "hall": "path",
+      "order": 10,
+      "folder": "00_Lobby_Teaser",
+      "access": "Erst nach Gate 1 plus NDA/KYC.",
+      "intro": [
+        "Öffentliche, reduzierte Sicht nach dem DDR-Konzept: nur das anonymisierte Kurzprofil. Auch dieses Blatt trägt den Entwurf-Stempel und darf erst nach Gate 1 sowie NDA und KYC herausgegeben werden."
+      ],
+      "tone": null,
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "nda",
+      "code": "01",
+      "short": "NDA-Gate",
+      "nav": "NDA-Gate",
+      "title": "01 NDA-Gate",
+      "href": "01_NDA_Gate/",
+      "parent": null,
+      "hall": "path",
+      "order": 20,
+      "folder": "01_NDA_Gate",
+      "access": "Zugangsregeln; keine Projektbelege.",
+      "intro": [
+        "Zugang zu den Projektunterlagen (Zone 02 und tiefer) besteht erst, wenn beide Voraussetzungen erfüllt sind: ein von beiden Seiten unterzeichnetes NDA mit dem jeweiligen Investor und eine abgeschlossene KYC-Prüfung dieses Investors (Identität, wirtschaftlich Berechtigter, Herkunft der Mittel, im Sinne der FATF-Empfehlungen). Dieser Raum enthält keine selbst erstellte NDA-Vorlage. Bestehende Vertraulichkeitsvereinbarungen Dritter liegen in Zone 02.3; sie ersetzen kein Investor-NDA für den vorliegenden Datenraum."
+      ],
+      "tone": null,
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "deal",
+      "code": "02",
+      "short": "Deal Room",
+      "nav": "Deal Room",
+      "title": "02 Deal Room",
+      "href": "02_Deal_Room/",
+      "parent": null,
+      "hall": "wing-label",
+      "order": 30,
+      "folder": "02_Deal_Room",
+      "access": "Nur nach Gate 1 sowie NDA und KYC.",
+      "intro": [
+        "Belege zu Titel und Behördenpapieren, Gesellschaft und Register, Verträgen, Geologie, Umwelt und Finanzen. Zugang nur nach NDA und KYC, und nur nach Gate 1, soweit die Gating-Regel die Herausgabe erlaubt. Verbindlich sind amtliche und unterzeichnete Originale in portugiesischer Sprache. Übersetzungen und Abschriften sind Arbeitsfassungen."
+      ],
+      "tone": null,
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "titel",
+      "code": "02.1",
+      "short": "Titel und Behördenpapiere",
+      "nav": "02.1 Titel",
+      "title": "02.1 Titel und Behördenpapiere",
+      "href": "02_Deal_Room/02.1_Titel_und_Behoerdenpapiere/",
+      "parent": "deal",
+      "hall": "wing",
+      "order": 31,
+      "folder": "02_Deal_Room/02.1_Titel_und_Behoerdenpapiere",
+      "access": "Nur nach Gate 1 sowie NDA und KYC.",
+      "intro": [
+        "Der vorhandene Titel ist ein Prospektionstitel der ENDIAMA Mining, Lda, nicht der Ares Maximus LDA. Er ist am 15.03.2026 abgelaufen; eine Verlängerung ist nicht belegt. Ein Betriebstitel wurde nie erteilt. Die Fläche von 1.622 km² darf nicht als gesicherte Fläche eines künftigen Neuantrags dargestellt werden."
+      ],
+      "tone": "caution",
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "gesellschaft",
+      "code": "02.2",
+      "short": "Gesellschaft und Register",
+      "nav": "02.2 Gesellschaft",
+      "title": "02.2 Gesellschaft und Register",
+      "href": "02_Deal_Room/02.2_Gesellschaft_und_Register/",
+      "parent": "deal",
+      "hall": "wing",
+      "order": 32,
+      "folder": "02_Deal_Room/02.2_Gesellschaft_und_Register",
+      "access": "Nur nach Gate 1 sowie NDA und KYC.",
+      "intro": [
+        "In diesem Ordner liegen nur Auszüge aus dem Jahresbericht 2021. Eine aktuelle Certidão do Registo Comercial fehlt, ebenso der erwähnte Auszug vom 23.04.2021."
+      ],
+      "tone": null,
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "vertraege",
+      "code": "02.3",
+      "short": "Verträge",
+      "nav": "02.3 Verträge",
+      "title": "02.3 Verträge",
+      "href": "02_Deal_Room/02.3_Vertraege/",
+      "parent": "deal",
+      "hall": "wing",
+      "order": 33,
+      "folder": "02_Deal_Room/02.3_Vertraege",
+      "access": "Nur nach Gate 1 sowie NDA und KYC.",
+      "intro": [
+        "Verbindlich ist allein der unterzeichnete portugiesische Contrato de Investimento Mineiro (CIM) vom 12.11.2020. Die englische OCR-Übersetzung ist fehlerhaft und darf nicht herausgegeben oder verwendet werden."
+      ],
+      "tone": "stop",
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "geologie",
+      "code": "02.4",
+      "short": "Geologie",
+      "nav": "02.4 Geologie",
+      "title": "02.4 Geologie",
+      "href": "02_Deal_Room/02.4_Geologie/",
+      "parent": "deal",
+      "hall": "wing",
+      "order": 34,
+      "folder": "02_Deal_Room/02.4_Geologie",
+      "access": "Nur nach Gate 1 sowie NDA und KYC.",
+      "intro": [
+        "Einzige zulässige Zahlenangabe zur Geologie: Explorationsziel ca. 28.000–180.000 ct, keine Ressource. Die Angabe ist konzeptionell, nicht von einer Competent Person nach SAMREC/CRIRSCO geprüft, ohne Bohrungen und ohne Großprobe. Ihr ist kein Geldwert zuzuordnen. In Investorenunterlagen darf beim Primärpotenzial nur die Anomalie MA-04 innerhalb des Titelpolygons genannt werden."
+      ],
+      "tone": "geology",
+      "statements": [
+        "Explorationsziel ca. 28.000–180.000 ct, keine Ressource."
+      ],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "umwelt",
+      "code": "02.5",
+      "short": "Umwelt und Genehmigungen",
+      "nav": "02.5 Umwelt",
+      "title": "02.5 Umwelt und Genehmigungen",
+      "href": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/",
+      "parent": "deal",
+      "hall": "wing",
+      "order": 35,
+      "folder": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen",
+      "access": "Nur nach Gate 1 sowie NDA und KYC.",
+      "intro": [
+        "Die Studien von TransAmbiente vom 04.01.2021 liegen als portugiesische Entwürfe vor. Eine Einreichung und eine Umweltlizenz sind nicht belegt. Verbindlich sind allein die portugiesischen Originale. Maschinelle Übersetzungen stehen im Unterordner „Arbeitsfassung_maschinell“ und dürfen nicht als verbindliche Fassungen herausgegeben werden."
+      ],
+      "tone": "caution",
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        },
+        {
+          "id": "arbeitsfassung",
+          "title": "Arbeitsfassung_maschinell",
+          "note": "Nur Arbeitsfassungen (maschinell, nicht verbindlich). Verbindlich sind allein die portugiesischen Originale."
+        }
+      ]
+    },
+    {
+      "id": "finanzen",
+      "code": "02.6",
+      "short": "Finanzen",
+      "nav": "02.6 Finanzen",
+      "title": "02.6 Finanzen",
+      "href": "02_Deal_Room/02.6_Finanzen/",
+      "parent": "deal",
+      "hall": "wing",
+      "order": 36,
+      "folder": "02_Deal_Room/02.6_Finanzen",
+      "access": "Nur nach Gate 1 sowie NDA und KYC.",
+      "intro": [
+        "Vorliegend ist der ungeprüfte, als vorläufig gekennzeichnete Jahresbericht 2021 samt einseitiger Bilanz und Gewinn- und Verlustrechnung. Ein Nachweis über Mittelzuflüsse in Höhe der AIPEX-Anmeldung liegt nicht vor."
+      ],
+      "tone": "caution",
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "qa",
+      "code": "03",
+      "short": "Q&A-Desk",
+      "nav": "Q&A-Desk",
+      "title": "03 Q&A-Desk",
+      "href": "03_QA_Desk/",
+      "parent": null,
+      "hall": "desk",
+      "order": 40,
+      "folder": "03_QA_Desk",
+      "access": "Interne Prüfungsarbeit.",
+      "intro": [
+        "Protokoll der internen kritischen Prüfung: 44 Fragen mit Status, Antwort, Beleg und Zuständigkeit. Dies ist das Q&A-Log aus der internen Arbeit, kein Live-Fragenkanal einer Datenraum-Plattform."
+      ],
+      "tone": null,
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "desk",
+      "code": "04",
+      "short": "Deal-Desk",
+      "nav": "Deal-Desk",
+      "title": "04 Deal-Desk",
+      "href": "04_Deal_Desk/",
+      "parent": null,
+      "hall": "desk",
+      "order": 50,
+      "folder": "04_Deal_Desk",
+      "access": "Interne Deal-Führung.",
+      "intro": [
+        "Operative Führung nach dem DDR-Konzept: vom Teaser über den Letter of Intent und die vertiefte Prüfung bis zur Umsetzung. Die Zuordnung zu den Gates 1, 2 und 3 steht in der Gate-Übersicht. Wochenangaben sind Richtwerte ab Mandatierung des angolanischen Bergrechtsanwalts in Luanda."
+      ],
+      "tone": null,
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "luecken",
+      "code": "05",
+      "short": "Lückenregister",
+      "nav": "Lückenregister",
+      "title": "05 Lückenregister",
+      "href": "05_Gap_Register/",
+      "parent": null,
+      "hall": "desk",
+      "order": 60,
+      "folder": "05_Gap_Register",
+      "access": "Teil der transparenten Aktenlage.",
+      "intro": [
+        "Was fehlt, ist Teil der Aussage dieses Datenraums. Die vollständige Due-Diligence-Anforderungsliste v1.1 umfasst 76 Punkte, davon 26 mit Priorität A (vor jeder Investorenansprache). Die Kurzliste fasst die wichtigsten fehlenden Behördenpapiere zusammen."
+      ],
+      "tone": null,
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    },
+    {
+      "id": "quellen",
+      "code": "06",
+      "short": "Quellenregister",
+      "nav": "Quellenregister",
+      "title": "06 Quellenregister und Disclosure",
+      "href": "06_Source_Register_und_Disclosure/",
+      "parent": null,
+      "hall": "desk",
+      "order": 70,
+      "folder": "06_Source_Register_und_Disclosure",
+      "access": "Interne Zone, nicht zur Weitergabe an Investoren.",
+      "intro": [
+        "Interne Zone. Diese Unterlagen sind nicht zur Weitergabe an Investoren bestimmt. Sie sichern die Trennung von Fakt, Annahme und Behauptung und die Sprachgrenze gegenüber Dritten. Die kritische Gesamtbewertung v1.0 ist ausschließlich intern und in dieser Startseite bewusst nicht verlinkt."
+      ],
+      "tone": "internal",
+      "statements": [],
+      "groups": [
+        {
+          "id": "main",
+          "title": null,
+          "note": null
+        }
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "id": "index-manifest-csv",
+      "zone": "index",
+      "group": "main",
+      "title": "Manifest.csv",
+      "description": "Maschinenlesbares Verzeichnis aller Dateien (Pfad, Zone, Beschreibung, Aussteller, Datum, Status, Verlässlichkeit).",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "CSV",
+          "filename": "Manifest.csv",
+          "relpath": "00_Index/Manifest.csv",
+          "viewUrl": "https://drive.google.com/file/d/1drcOEOlZ7xtARRJOwxBIXvzftStbQMMq/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "index-datenraum-index-v1-0",
+      "zone": "index",
+      "group": "main",
+      "title": "Datenraum-Index v1.0",
+      "description": "Gesamtindex (Struktur, Bestand, fehlende Unterlagen, nicht umgesetzte Plattformfunktionen).",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "Satchifunga_DDR_Index_v1.0.pdf",
+          "relpath": "00_Index/Satchifunga_DDR_Index_v1.0.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1ao60q-MbyK1QryDA_yXcNE8g7CJjMOmX/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "Satchifunga_DDR_Index_v1.0.docx",
+          "relpath": "00_Index/Satchifunga_DDR_Index_v1.0.docx",
+          "viewUrl": "https://docs.google.com/document/d/1YxCAy5lpn35lwX78s2r1RUxVFjRkmpKA/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Excel",
+          "filename": "Satchifunga_DDR_Index_v1.0.xlsx",
+          "relpath": "00_Index/Satchifunga_DDR_Index_v1.0.xlsx",
+          "viewUrl": "https://docs.google.com/spreadsheets/d/1aE4nN3vOBiRli9ZLbQBHaldCK9FclGkz/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "lobby-kurzprofil-satchifunga-entwurf",
+      "zone": "lobby",
+      "group": "main",
+      "title": "Kurzprofil Satchifunga (ENTWURF)",
+      "description": "Einseitiges, anonymisiertes Kurzprofil (Angola, Lunda Sul, Prospektion sekundärer Diamantvorkommen, Titel abgelaufen am 15.03.2026, Neuantrag geplant, Explorationsziel ca. 28.000–180.000 ct, keine Ressource). Nicht freigegeben.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (Entwurf, nicht freigegeben)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "00_Kurzprofil_Satchifunga_ENTWURF.pdf",
+          "relpath": "00_Lobby_Teaser/00_Kurzprofil_Satchifunga_ENTWURF.pdf",
+          "viewUrl": "https://drive.google.com/file/d/11MkK1y5A6L26Dbount2g--b9L1B8LQze/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "00_Kurzprofil_Satchifunga_ENTWURF.docx",
+          "relpath": "00_Lobby_Teaser/00_Kurzprofil_Satchifunga_ENTWURF.docx",
+          "viewUrl": "https://docs.google.com/document/d/1GHry6h-clh3bwKlCErpEzNJOb7aqx8XV/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "nda-zugangsregeln-terms-of-access",
+      "zone": "nda",
+      "group": "main",
+      "title": "Zugangsregeln (Terms of Access)",
+      "description": "Zugangsregeln und Gating-Regel aus Ablaufplan v1.0, Abschnitt 1.3. Keine selbst erstellte NDA-Vorlage.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_Zugangsregeln_NDA_Gate.pdf",
+          "relpath": "01_NDA_Gate/01_Zugangsregeln_NDA_Gate.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1wuT_8k1KqieoWUh6JorRe3iAV07cmLFy/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "01_Zugangsregeln_NDA_Gate.docx",
+          "relpath": "01_NDA_Gate/01_Zugangsregeln_NDA_Gate.docx",
+          "viewUrl": "https://docs.google.com/document/d/1iQfq0gCk52J2kOpjwBJA4MkA8NHPMNo4/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "titel-titulo-de-prospeccao-105-03-02-t-p-ang-mirempet-2021-scan",
+      "zone": "titel",
+      "group": "main",
+      "title": "Título de Prospecção 105/03/02/T.P/ANG-MIREMPET/2021 (Scan)",
+      "description": "Prospektionstitel vom 15.03.2021, 1.622 km², sekundäre Diamantvorkommen, ausgestellt auf ENDIAMA Mining, Lda (Projecto Santchifunga), nicht auf Ares Maximus. Gültig bis 15.03.2026, abgelaufen; keine Verlängerung belegt. Nur Scan (6 Seiten); Originalurkunde fehlt.",
+      "grade": "A",
+      "kind": "Fakt",
+      "reliabilityLabel": "A · Fakt",
+      "status": "vorhanden (Scan)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_Titulo_de_Prospeccao_105-2021_Scan.pdf",
+          "relpath": "02_Deal_Room/02.1_Titel_und_Behoerdenpapiere/01_Titulo_de_Prospeccao_105-2021_Scan.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1RYmouDcGdMDMHcu9jFmNKoJtmBgUjM-t/view?usp=drivesdk",
+          "issuer": "MIREMPET / DNRM",
+          "date": "15.03.2021",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "titel-projektmappe-projecto-santechifunga-despacho-247-2020",
+      "zone": "titel",
+      "group": "main",
+      "title": "Projektmappe „Projecto Santechifunga“ / Despacho 247/2020",
+      "description": "Kopie des Despacho 247/2020 vom 17.12.2020 (Genehmigung des Bergbau-Investitionsvertrags, nur sekundäre Vorkommen). Veröffentlichung im Diário da República in den Beständen nicht gefunden. Volltexte der Despachos 412/15 und 2530/20 fehlen.",
+      "grade": "A",
+      "kind": "Fakt",
+      "reliabilityLabel": "A · Fakt",
+      "status": "vorhanden (Kopie)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "02_Projecto_Santechifunga_Mappe_Despacho_247-2020.pdf",
+          "relpath": "02_Deal_Room/02.1_Titel_und_Behoerdenpapiere/02_Projecto_Santechifunga_Mappe_Despacho_247-2020.pdf",
+          "viewUrl": "https://drive.google.com/file/d/10gQfpLuQ3Q-5_n2fd-BiP_KQ7HeRJrTf/view?usp=drivesdk",
+          "issuer": "MIREMPET (Kopie in Projektmappe)",
+          "date": "17.12.2020",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "titel-auszug-certificado-de-registo-mineiro-1301-09-crm-dnrm-2019",
+      "zone": "titel",
+      "group": "main",
+      "title": "Auszug Certificado de Registo Mineiro 1301/09/CRM/DNRM/2019",
+      "description": "Abbildung im Jahresbericht 2021: Nr. 1301/09/CRM/DNRM/2019 vom 05.09.2019, 5 Jahre gültig, ausdrücklich ohne Bergrechte. Keine getrennte Originalurkunde; Erneuerung nicht belegt (mutmaßlich seit 09/2024 abgelaufen).",
+      "grade": "A",
+      "kind": "Fakt",
+      "reliabilityLabel": "A · Fakt",
+      "status": "vorhanden (nur als Anlage zum Jahresbericht 2021)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "03_Auszug_Jahresbericht_2021_Registo_Mineiro.pdf",
+          "relpath": "02_Deal_Room/02.1_Titel_und_Behoerdenpapiere/03_Auszug_Jahresbericht_2021_Registo_Mineiro.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1wYpAY7M6ATgQWXhurIE5S7JzxqSzOPt1/view?usp=drivesdk",
+          "issuer": "DNRM (Abbildung im Jahresbericht 2021)",
+          "date": "05.09.2019",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "titel-liste-der-behordenpapiere-fur-ares-maximus-lda",
+      "zone": "titel",
+      "group": "main",
+      "title": "Liste der Behördenpapiere für Ares Maximus LDA",
+      "description": "12-Punkte-Übersicht: A vorhanden und an Ares gerichtet; B amtlich, aber nicht an Ares gerichtet; C fehlt.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "04_Behoerdenpapiere_Ares_Maximus_LDA.pdf",
+          "relpath": "02_Deal_Room/02.1_Titel_und_Behoerdenpapiere/04_Behoerdenpapiere_Ares_Maximus_LDA.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1s-ef71q_hRnmLzUzkx0k_bX8nVtWqL-N/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "04_Behoerdenpapiere_Ares_Maximus_LDA.docx",
+          "relpath": "02_Deal_Room/02.1_Titel_und_Behoerdenpapiere/04_Behoerdenpapiere_Ares_Maximus_LDA.docx",
+          "viewUrl": "https://docs.google.com/document/d/12QaEZtQQ4MAoDQqi6h5V3dmAEk4ILECi/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "gesellschaft-hinweis-zu-fehlenden-registerunterlagen",
+      "zone": "gesellschaft",
+      "group": "main",
+      "title": "Hinweis zu fehlenden Registerunterlagen",
+      "description": "Klarstellung: hier nur Auszüge aus dem Jahresbericht 2021; aktuelle Certidão fehlt.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "00_Hinweis_fehlende_Registerunterlagen.pdf",
+          "relpath": "02_Deal_Room/02.2_Gesellschaft_und_Register/00_Hinweis_fehlende_Registerunterlagen.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1TMP6cP6MPL8VIlCLS3JBKMcb-QJwOtkT/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "00_Hinweis_fehlende_Registerunterlagen.docx",
+          "relpath": "02_Deal_Room/02.2_Gesellschaft_und_Register/00_Hinweis_fehlende_Registerunterlagen.docx",
+          "viewUrl": "https://docs.google.com/document/d/1VX3478OW-mMoOl6fHRmIEgDPChEjv15r/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "gesellschaft-auszug-alvara-de-prestacao-de-servicos-mercantis",
+      "zone": "gesellschaft",
+      "group": "main",
+      "title": "Auszug Alvará de Prestação de Serviços Mercantis",
+      "description": "Abbildung im Jahresbericht 2021: Alvará, NIF 5000208205, gültig bis 14.06.2024. Keine getrennte Originalurkunde; Erneuerung nicht belegt.",
+      "grade": "A",
+      "kind": "Fakt",
+      "reliabilityLabel": "A · Fakt",
+      "status": "vorhanden (Auszug)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_Auszug_Jahresbericht_2021_Alvara_Servicos_Mercantis.pdf",
+          "relpath": "02_Deal_Room/02.2_Gesellschaft_und_Register/01_Auszug_Jahresbericht_2021_Alvara_Servicos_Mercantis.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1mn-UUH1mOZNmbCcaaHufHIWUFchCuRot/view?usp=drivesdk",
+          "issuer": "Ministério do Comércio (Abbildung im Jahresbericht 2021)",
+          "date": "gültig bis 14.06.2024",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "gesellschaft-auszug-aipex-crip-22-05-2019",
+      "zone": "gesellschaft",
+      "group": "main",
+      "title": "Auszug AIPEX-CRIP (22.05.2019)",
+      "description": "Abbildung im Jahresbericht 2021: Certificado de Registo de Investimento Privado vom 22.05.2019. Anmeldung einer Auslandsinvestition von USD 11,2 Mio. für den Handel mit geschliffenen Diamanten in Luanda. Das ist eine Anmeldung, kein Mittelzufluss und kein Recht an der Konzession. Firmenbezeichnung dort leicht abweichend.",
+      "grade": "A",
+      "kind": "Fakt",
+      "reliabilityLabel": "A · Fakt",
+      "status": "vorhanden (Auszug)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "02_Auszug_Jahresbericht_2021_CRIP_AIPEX.pdf",
+          "relpath": "02_Deal_Room/02.2_Gesellschaft_und_Register/02_Auszug_Jahresbericht_2021_CRIP_AIPEX.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1xtCz_dxDXYdqCKUI-J8LkO3_3AFRpo7J/view?usp=drivesdk",
+          "issuer": "AIPEX (Abbildung im Jahresbericht 2021)",
+          "date": "22.05.2019",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-cim-12-11-2020-portugiesisches-original-scan",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "CIM 12.11.2020, portugiesisches Original (Scan)",
+      "description": "Unterzeichneter Contrato de Investimento Mineiro, Vertragssprache Portugiesisch (Scan, 86 Bildseiten). Verbindliche Fassung. Die PDF-Reihenfolge weicht von der Originalpaginierung ab. Anexo H nur als Deckblatt, Anexo I (Gesellschaftervereinbarung) fehlt im Scan.",
+      "grade": "A",
+      "kind": "Fakt",
+      "reliabilityLabel": "A · Fakt",
+      "status": "vorhanden (Scan)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_CIM_2020-11-12_PT_unterzeichnet_Scan.pdf",
+          "relpath": "02_Deal_Room/02.3_Vertraege/01_CIM_2020-11-12_PT_unterzeichnet_Scan.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1F3LYkHecan6SvA2buG1XWds3wiPZyUz0/view?usp=drivesdk",
+          "issuer": "ENDIAMA E.P. / ENDIAMA Mining / Ares Maximus / KGCE",
+          "date": "12.11.2020",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-cim-portugiesische-abschrift",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "CIM, portugiesische Abschrift",
+      "description": "Interne Abschrift/OCR des unterzeichneten Scans. Lesbar, aber mit Abschreibfehlern und derselben durcheinandergeratenen Seitenfolge. Nicht die verbindliche Fassung.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "Word",
+          "filename": "02_CIM_2020-11-12_PT_Abschrift.docx",
+          "relpath": "02_Deal_Room/02.3_Vertraege/02_CIM_2020-11-12_PT_Abschrift.docx",
+          "viewUrl": "https://docs.google.com/document/d/1a6J_InBB_KFYxkCcELJN9r5-eVkY2LnO/edit?usp=drivesdk",
+          "issuer": "interne Abschrift (Konstantin Sécrit)",
+          "date": "17.03.2022",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-cim-deutsche-ubersetzung",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "CIM, deutsche Übersetzung",
+      "description": "Deutsche Übersetzung aus der portugiesischen Abschrift. Nur Arbeitsfassung, nicht verbindlich.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "03_CIM_2020-11-12_DE_Uebersetzung.pdf",
+          "relpath": "02_Deal_Room/02.3_Vertraege/03_CIM_2020-11-12_DE_Uebersetzung.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1uiBIpRY_2XO8SzzNqvbYoShBx0uJ_iqv/view?usp=drivesdk",
+          "issuer": "Übersetzung (Arbeitsfassung)",
+          "date": "o. D.",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-cim-englische-ocr-ubersetzung-nicht-verwenden",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "CIM, englische OCR-Übersetzung – nicht verwenden",
+      "description": "Fehlerhafte OCR-Übersetzung (unter anderem falscher Satz zur Sicherheitsleistung/Caução). Nur zur Kenntnis, nicht herausgeben und nicht verwenden.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nicht verwenden)",
+      "internalOnly": false,
+      "doNotUse": true,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "04_CIM_2020-11-12_EN_OCR-Uebersetzung_nicht_verwenden.pdf",
+          "relpath": "02_Deal_Room/02.3_Vertraege/04_CIM_2020-11-12_EN_OCR-Uebersetzung_nicht_verwenden.pdf",
+          "viewUrl": "https://drive.google.com/file/d/13JmqEWToPYkRymg6AT6C3GSt6SJE1cOq/view?usp=drivesdk",
+          "issuer": "OCR-Übersetzung (Aspose.Words)",
+          "date": "13.04.2025",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-nda-beak-consultants-vinch-globe-28-11-2023",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "NDA Beak Consultants / Vinch Globe (28.11.2023)",
+      "description": "Vertraulichkeitsvereinbarung zwischen Vinch Globe Holding Ltd und Beak Consultants GmbH, in Kraft ab 28.11.2023. Parteien sind nicht Ares Maximus LDA. Status und fortlaufende Pflichten sind zu klären.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "05_NDA_Beak_Consultants_Vinch_Globe_2023-11-28.pdf",
+          "relpath": "02_Deal_Room/02.3_Vertraege/05_NDA_Beak_Consultants_Vinch_Globe_2023-11-28.pdf",
+          "viewUrl": "https://drive.google.com/file/d/19ljbtckhsSVMoc7RkWZVHWQIylwPTVq2/view?usp=drivesdk",
+          "issuer": "Vinch Globe Holding Ltd / Beak Consultants GmbH",
+          "date": "28.11.2023",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-nda-beak-consultants-vinch-globe-27-11-2023",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "NDA Beak Consultants / Vinch Globe (27.11.2023)",
+      "description": "Weitere Fassung (Dateidatum 27.11.2023), inhaltlich nicht identisch mit der Fassung vom 28.11.2023. Status klären.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "06_NDA_Beak_Consultants_Vinch_Globe_2023-11-27.pdf",
+          "relpath": "02_Deal_Room/02.3_Vertraege/06_NDA_Beak_Consultants_Vinch_Globe_2023-11-27.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1uWbkoFW5lVPQw_VqWKr6A75mx8FaYpab/view?usp=drivesdk",
+          "issuer": "Vinch Globe Holding Ltd / Beak Consultants GmbH",
+          "date": "27.11.2023",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-nda-vinch-globe-trading-iko-capital-02-04-2025",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "NDA Vinch Globe Trading / IKO Capital (02.04.2025)",
+      "description": "NDA zwischen Vinch Globe Trading Ltd und IKO Capital (Nicolas Jego, Zug), Effective Date 02.04.2025. Parteien sind nicht Ares Maximus LDA. Unterzeichnungsstatus und Pflichten sind zu klären.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "Word",
+          "filename": "07_NDA_Vinch_Globe_Trade_IKO_Capital_2025-04-02.docx",
+          "relpath": "02_Deal_Room/02.3_Vertraege/07_NDA_Vinch_Globe_Trade_IKO_Capital_2025-04-02.docx",
+          "viewUrl": "https://docs.google.com/document/d/1WMpfUs3cxSp4RAVDY9Qt-oTwbB9hKgJO/edit?usp=drivesdk",
+          "issuer": "Vinch Globe Trading Ltd / IKO Capital",
+          "date": "02.04.2025",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-contrato-de-confidencialidade",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "Contrato de Confidencialidade",
+      "description": "Vertraulichkeitsvertrag (Scan, 12 Seiten). Bestehende Vereinbarung, keine Vorlage.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "08_Contrato_de_Confidencialidade.pdf",
+          "relpath": "02_Deal_Room/02.3_Vertraege/08_Contrato_de_Confidencialidade.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1h2p6Kz-pgHkfctT_BE4N0RispKf11sFc/view?usp=drivesdk",
+          "issuer": "siehe Urkunde",
+          "date": "o. D.",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "vertraege-anschreiben-nda-endiama-kgce-2020",
+      "zone": "vertraege",
+      "group": "main",
+      "title": "Anschreiben NDA ENDIAMA / KGCE (2020)",
+      "description": "Anschreiben (Ref. a458/Gab.PCA/2020) zur Vertraulichkeitsvereinbarung zwischen ENDIAMA-E.P. und KGCE – Mining and Investiments, S.A. Nicht an Ares Maximus adressiert.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "Word",
+          "filename": "09_Anschreiben_NDA_ENDIAMA_KGCE_2020.docx",
+          "relpath": "02_Deal_Room/02.3_Vertraege/09_Anschreiben_NDA_ENDIAMA_KGCE_2020.docx",
+          "viewUrl": "https://docs.google.com/document/d/13znEMqqsnZZHnWd60kESI3F36zpywJJ9/edit?usp=drivesdk",
+          "issuer": "KGCE / ENDIAMA-E.P.",
+          "date": "2020",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "geologie-relatorio-da-campanha-de-prospeccao-block-6-signiert",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Relatório da Campanha de Prospecção, Block 6 (signiert)",
+      "description": "Kampagnenbericht Block 6, Silva P. Ginga, signiert am 24.12.2021. Fachbericht über eine manuelle Schurfkampagne. Keine Mineralressource.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_Relatorio_Campanha_Prospeccao_Bloco_6_signiert.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/01_Relatorio_Campanha_Prospeccao_Bloco_6_signiert.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1U4nj_kly4WQnxyMGXM5qvKc3fWPhoneN/view?usp=drivesdk",
+          "issuer": "Silva P. Ginga",
+          "date": "24.12.2021",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "geologie-relatorio-de-prospeccao-sambuambua",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Relatório de Prospecção Sambuambua",
+      "description": "Bericht Prospektion Sambuambua, Silva P. Ginga, 08.02.2022. Fachbericht. Keine Mineralressource.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "02_Relatorio_Prospeccao_Sambuambua.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/02_Relatorio_Prospeccao_Sambuambua.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1vbPrWBLRcJaQ8cyb7BD67rj7Y87XCQ5C/view?usp=drivesdk",
+          "issuer": "Silva P. Ginga",
+          "date": "08.02.2022",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "geologie-kurzfassung-geologischer-bericht-block-6-en",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Kurzfassung geologischer Bericht Block 6 (EN)",
+      "description": "Unternehmenskurzfassung 07/2024. Kein Bericht einer Competent Person.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "03_Summary_geological_report_Block_6_EN.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/03_Summary_geological_report_Block_6_EN.pdf",
+          "viewUrl": "https://drive.google.com/file/d/17OwH-2CpNprUck4SAY2Wr4DPLwu9B6ry/view?usp=drivesdk",
+          "issuer": "Unternehmenskurzfassung",
+          "date": "07/2024",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "geologie-kurzfassung-geologischer-bericht-block-6-de",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Kurzfassung geologischer Bericht Block 6 (DE)",
+      "description": "Unternehmenskurzfassung 07/2024. Kein Bericht einer Competent Person.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "04_Zusammenfassung_geologischer_Bericht_Block_6_DE.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/04_Zusammenfassung_geologischer_Bericht_Block_6_DE.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1OJEfoe7TyERLTW_QSuykOhmNWesxXII0/view?usp=drivesdk",
+          "issuer": "Unternehmenskurzfassung",
+          "date": "07/2024",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "geologie-kurzfassung-bericht-sambuambua-en",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Kurzfassung Bericht Sambuambua (EN)",
+      "description": "Unternehmenskurzfassung 07/2024. Kein Bericht einer Competent Person.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "05_Summary_geological_report_Sambuambua_EN.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/05_Summary_geological_report_Sambuambua_EN.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1tFBOOMAFTUSv9-wdAmaIS4sUDaqrF1JE/view?usp=drivesdk",
+          "issuer": "Unternehmenskurzfassung",
+          "date": "07/2024",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "geologie-endiama-informacoes-geologicas-10-09-2020",
+      "zone": "geologie",
+      "group": "main",
+      "title": "ENDIAMA, Informações geológicas (10.09.2020)",
+      "description": "Cedência de Informação geológica bzw. geografische Unterlagen der ENDIAMA vom 10.09.2020.",
+      "grade": "A",
+      "kind": "Fakt",
+      "reliabilityLabel": "A · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "06_ENDIAMA_Informacoes_geologicas_2020-09-10.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/06_ENDIAMA_Informacoes_geologicas_2020-09-10.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1T5qphYxaxEKKWb5uqWHU24yrFZWwXVvO/view?usp=drivesdk",
+          "issuer": "ENDIAMA",
+          "date": "10.09.2020",
+          "language": "PT/EN"
+        }
+      ]
+    },
+    {
+      "id": "geologie-endiama-informacoes-geologicas-englische-fassung",
+      "zone": "geologie",
+      "group": "main",
+      "title": "ENDIAMA, Informações geológicas (englische Fassung)",
+      "description": "Englische Fassung bzw. Begleitdokument zur geologischen Information der ENDIAMA.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "07_ENDIAMA_Informacoes_geologicas_English.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/07_ENDIAMA_Informacoes_geologicas_English.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1DeIJzv0YHVZcpM0Mq04j3qON2-7dsNqQ/view?usp=drivesdk",
+          "issuer": "ENDIAMA / Übersetzung",
+          "date": "10.09.2020",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "geologie-solicitacao-de-informacao-geologica",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Solicitação de Informação geológica",
+      "description": "Antrag bzw. Schreiben zur Anforderung geologischer Informationen (2020).",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "08_Solicitacao_Informacao_geologica.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/08_Solicitacao_Informacao_geologica.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1YwzRvc3t5gOIG2Z9aSaDcxq2xeyXk40I/view?usp=drivesdk",
+          "issuer": "Antragsteller (Projekt)",
+          "date": "2020",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "geologie-zusammenfassung-satchifunga-2009-2011-de",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Zusammenfassung Satchifunga 2009–2011 (DE)",
+      "description": "Historische Zusammenfassung der Vorgängerphase 2009–2011, nicht der Kampagnen 2021.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "09_Zusammenfassung_Satchifunga_2009-2011_DE.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/09_Zusammenfassung_Satchifunga_2009-2011_DE.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1E9kCunyvsH-ZeoxHTwVu_lAVdCCv_avm/view?usp=drivesdk",
+          "issuer": "historische Zusammenstellung",
+          "date": "2009–2011 (Dok. historisch)",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "geologie-resumo-satchifunga-2009-2011-pt",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Resumo Satchifunga 2009–2011 (PT)",
+      "description": "Historische Zusammenfassung der Aktivitäten 2009–2011, portugiesische Fassung.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "Word",
+          "filename": "10_Resumo_Satchifunga_2009-2011_PT.docx",
+          "relpath": "02_Deal_Room/02.4_Geologie/10_Resumo_Satchifunga_2009-2011_PT.docx",
+          "viewUrl": "https://docs.google.com/document/d/1BbVCjrRswZHDQ75u21nuHpmqnndzLynR/edit?usp=drivesdk",
+          "issuer": "historische Zusammenstellung",
+          "date": "2009–2011 (Dok. historisch)",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "geologie-resumo-satchifunga-2009-2011-en",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Resumo Satchifunga 2009–2011 (EN)",
+      "description": "Historische Zusammenfassung 2009–2011, englische Fassung.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "11_Resumo_Satchifunga_2009-2011_EN.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/11_Resumo_Satchifunga_2009-2011_EN.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1EiqGqdZMgNlO6Y8Lc2jMepTnzVlOOVGd/view?usp=drivesdk",
+          "issuer": "Übersetzung",
+          "date": "2009–2011 (Dok. historisch)",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "geologie-geoplan-primargebiet",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Geoplan Primärgebiet",
+      "description": "Lageplan bzw. geologischer Plan zum Primärgebiet (17 Seiten). In Investorenunterlagen nur die Anomalie MA-04 innerhalb des Titelpolygons nennen; MA-01 bis MA-03 liegen außerhalb.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "12_Geoplan_Primaergebiet.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/12_Geoplan_Primaergebiet.pdf",
+          "viewUrl": "https://drive.google.com/file/d/12Q4xfrRY68-HhuZ0DzBgVSSFq221ZeIc/view?usp=drivesdk",
+          "issuer": "Unternehmensunterlage",
+          "date": "o. D.",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "geologie-plan-block-6a-17-07-2023-ungesigniert",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Plan Block 6a, 17.07.2023 (ungesigniert)",
+      "description": "„Dismantling Plan“ Block 6a, Silva P. Ginga, 17.07.2023, unsigniert. Unternehmensangabe, kein genehmigter Betriebsplan.",
+      "grade": "B",
+      "kind": "Annahme",
+      "reliabilityLabel": "B · Annahme",
+      "status": "vorhanden (ungesigniert)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "13_Abbauplan_Block_6a_2023-07-17_ungesigniert.pdf",
+          "relpath": "02_Deal_Room/02.4_Geologie/13_Abbauplan_Block_6a_2023-07-17_ungesigniert.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1tkZ52qS9AbeNlUmc_kMQyTPIoVrqZO7I/view?usp=drivesdk",
+          "issuer": "Silva P. Ginga (ungesigniert)",
+          "date": "17.07.2023",
+          "language": "PT/EN"
+        }
+      ]
+    },
+    {
+      "id": "geologie-prospektionslocher-punkt-10",
+      "zone": "geologie",
+      "group": "main",
+      "title": "Prospektionslöcher, Punkt 10",
+      "description": "Tabellarische Rohdaten der Prospektionslöcher (Punkt 10). Unternehmensangabe, keine Ressourcenschätzung.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "Excel",
+          "filename": "14_Prospektionsloecher_Punkt_10.xlsx",
+          "relpath": "02_Deal_Room/02.4_Geologie/14_Prospektionsloecher_Punkt_10.xlsx",
+          "viewUrl": "https://docs.google.com/spreadsheets/d/1x0Q9EY-dg15eRhOTyqaGlqgRi7jHHYYl/edit?usp=drivesdk",
+          "issuer": "Unternehmensdaten",
+          "date": "o. D.",
+          "language": "–"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-eia-estudo-de-impacte-ambiental-pt-original",
+      "zone": "umwelt",
+      "group": "main",
+      "title": "EIA (Estudo de Impacte Ambiental), PT-Original",
+      "description": "Umweltverträglichkeitsstudie, TransAmbiente, 04.01.2021, portugiesisches Original. Entwurf; Einreichung und Umweltlizenz sind nicht belegt.",
+      "grade": "B",
+      "kind": "Annahme",
+      "reliabilityLabel": "B · Annahme",
+      "status": "vorhanden (Entwurf)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_EIA_PT_TransAmbiente_2021-01-04.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/01_EIA_PT_TransAmbiente_2021-01-04.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1AqTfHvUTOyFusKlbEaEee7mLj_ZFc53d/view?usp=drivesdk",
+          "issuer": "TransAmbiente",
+          "date": "04.01.2021",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-pga-plano-de-gestao-ambiental-pt-original",
+      "zone": "umwelt",
+      "group": "main",
+      "title": "PGA (Plano de Gestão Ambiental), PT-Original",
+      "description": "Umweltmanagementplan, TransAmbiente, 04.01.2021, portugiesisches Original.",
+      "grade": "B",
+      "kind": "Annahme",
+      "reliabilityLabel": "B · Annahme",
+      "status": "vorhanden (Entwurf)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "02_PGA_PT_TransAmbiente_2021-01-04.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/02_PGA_PT_TransAmbiente_2021-01-04.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1QzWOauSnePFTIFHA8fkTAg_NP3rBim6m/view?usp=drivesdk",
+          "issuer": "TransAmbiente",
+          "date": "04.01.2021",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-pgr-plano-de-gestao-de-residuos-pt-original",
+      "zone": "umwelt",
+      "group": "main",
+      "title": "PGR (Plano de Gestão de Resíduos), PT-Original",
+      "description": "Abfallplan, TransAmbiente, 04.01.2021, portugiesisches Original.",
+      "grade": "B",
+      "kind": "Annahme",
+      "reliabilityLabel": "B · Annahme",
+      "status": "vorhanden (Entwurf)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "03_PGR_PT_TransAmbiente_2021-01-04.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/03_PGR_PT_TransAmbiente_2021-01-04.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1aVJcAxV_vw1y-3_ZK07X3ieRrHqa1jOH/view?usp=drivesdk",
+          "issuer": "TransAmbiente",
+          "date": "04.01.2021",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-prad-plano-de-recuperacao-de-areas-degradadas-pt-original",
+      "zone": "umwelt",
+      "group": "main",
+      "title": "PRAD (Plano de Recuperação de Áreas Degradadas), PT-Original",
+      "description": "Rekultivierungsplan, TransAmbiente, 04.01.2021, portugiesisches Original. Ohne belastbare Flächen-, Kosten- und Zeitangaben.",
+      "grade": "B",
+      "kind": "Annahme",
+      "reliabilityLabel": "B · Annahme",
+      "status": "vorhanden (Entwurf)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "04_PRAD_PT_TransAmbiente_2021-01-04.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/04_PRAD_PT_TransAmbiente_2021-01-04.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1RWdxD03MR39VDN-LbCHxaNI-JLUu42wG/view?usp=drivesdk",
+          "issuer": "TransAmbiente",
+          "date": "04.01.2021",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-she-arbeitssicherheit-und-gesundheit-pt-original",
+      "zone": "umwelt",
+      "group": "main",
+      "title": "SHE / Arbeitssicherheit und Gesundheit, PT-Original",
+      "description": "Plan für Arbeitssicherheit und Gesundheit, TransAmbiente, 04.01.2021, portugiesisches Original.",
+      "grade": "B",
+      "kind": "Annahme",
+      "reliabilityLabel": "B · Annahme",
+      "status": "vorhanden (Entwurf)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "05_SHE_PT_TransAmbiente_2021-01-04.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/05_SHE_PT_TransAmbiente_2021-01-04.pdf",
+          "viewUrl": "https://drive.google.com/file/d/13smurx7MLa0DhKtecKF8mehj95bcwWnL/view?usp=drivesdk",
+          "issuer": "TransAmbiente",
+          "date": "04.01.2021",
+          "language": "PT"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-eia-deutsche-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "EIA, deutsche maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung, fehlerhaft; verbindlich ist allein das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_EIA_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/01_EIA_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1gC7DX04lgJ7_7Y3_9JslTg3011Gjzttr/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-eia-englische-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "EIA, englische maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "09_EIA_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/09_EIA_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/17SuWbfy8nj2JoSShG-UE_BW0pxDjU4Os/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-pgr-deutsche-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "PGR, deutsche maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "02_PGR_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/02_PGR_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/18WTp0dw5uXKWGNpJzhzoP5bW0O151heK/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-pgr-englische-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "PGR, englische maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "10_PGR_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/10_PGR_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1pZRdTpPwG1vAWmnxqcR3YHK8UlupXHMg/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-pga-deutsche-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "PGA, deutsche maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "03_PGA_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/03_PGA_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1er6SYZbnu_7UwDzt5oUIxaouonFk0lnH/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-pga-englische-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "PGA, englische maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "04_PGA_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/04_PGA_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1zAyCgsa_iOel0zRnujuPHSk2h9bc6UyZ/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-prad-deutsche-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "PRAD, deutsche maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "05_PRAD_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/05_PRAD_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1YCky0qRFrUnpVzhN-MWm0Ajgnz-DFLCS/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-prad-englische-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "PRAD, englische maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "06_PRAD_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/06_PRAD_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1QkVZnbnMuF3UR8Z56mGVoVdy31dOoQb7/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-she-deutsche-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "SHE, deutsche maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "07_SHE_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/07_SHE_DE_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1MNvGmEu4Mq8JiYAx5hDRaoPc6JOBs0t2/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "umwelt-she-englische-maschinelle-ubersetzung",
+      "zone": "umwelt",
+      "group": "arbeitsfassung",
+      "title": "SHE, englische maschinelle Übersetzung",
+      "description": "Nur Arbeitsfassung; verbindlich ist das portugiesische Original.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur Arbeitsfassung)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "08_SHE_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "relpath": "02_Deal_Room/02.5_Umwelt_und_Genehmigungen/Arbeitsfassung_maschinell/08_SHE_EN_nur_Arbeitsfassung_maschinell.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1NKhz9yu93cOYARROPr2wsc7tvtNIQnBZ/view?usp=drivesdk",
+          "issuer": "maschinelle Übersetzung",
+          "date": "04.01.2021 (Übersetzung später)",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "finanzen-jahresbericht-management-report-2021-vorlaufig",
+      "zone": "finanzen",
+      "group": "main",
+      "title": "Jahresbericht / Management Report 2021 (vorläufig)",
+      "description": "Jahresbericht 2021 der Ares Maximus Trading – Exploração Mineira Lda, vorläufige Fassung (Versão Preliminar 01), ungeprüft. Als Anlagen Abbildungen von CRIP, Alvará und Certificado de Registo Mineiro. Kein Nachweis über Mittelzuflüsse in Höhe der AIPEX-Anmeldung.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden (vorläufig, ungeprüft)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_Ares_Maximus_Financial_Report_2021_vorlaeufig.pdf",
+          "relpath": "02_Deal_Room/02.6_Finanzen/01_Ares_Maximus_Financial_Report_2021_vorlaeufig.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1Y1g91pRcdshXRq_80P14224a-MAZ8XGk/view?usp=drivesdk",
+          "issuer": "Ares Maximus (Management)",
+          "date": "31.12.2021 (Bericht 16.03.2022)",
+          "language": "EN/PT"
+        }
+      ]
+    },
+    {
+      "id": "finanzen-bilanz-zum-31-12-2021",
+      "zone": "finanzen",
+      "group": "main",
+      "title": "Bilanz zum 31.12.2021",
+      "description": "Bilanz der Ares Maximus Trading Lda zum 31.12.2021 (1 Seite). Ungeprüft.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden (ungeprüft)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "02_Ares_Maximus_Bilanz_2021-12-31.pdf",
+          "relpath": "02_Deal_Room/02.6_Finanzen/02_Ares_Maximus_Bilanz_2021-12-31.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1szpzCP_3kDubBPPtXD7at9TJIaEQ5lZd/view?usp=drivesdk",
+          "issuer": "Ares Maximus",
+          "date": "31.12.2021",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "finanzen-gewinn-und-verlustrechnung-zum-31-12-2021",
+      "zone": "finanzen",
+      "group": "main",
+      "title": "Gewinn- und Verlustrechnung zum 31.12.2021",
+      "description": "Gewinn- und Verlustrechnung der Ares Maximus Trading Lda zum 31.12.2021 (1 Seite). Ungeprüft.",
+      "grade": "B",
+      "kind": "Fakt",
+      "reliabilityLabel": "B · Fakt",
+      "status": "vorhanden (ungeprüft)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "03_Ares_Maximus_GuV_2021-12-31.pdf",
+          "relpath": "02_Deal_Room/02.6_Finanzen/03_Ares_Maximus_GuV_2021-12-31.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1g7Va64HKSA3LBukvqMnXUszqXWsYSkWB/view?usp=drivesdk",
+          "issuer": "Ares Maximus",
+          "date": "31.12.2021",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "qa-q-a-log-der-kritikerfragen",
+      "zone": "qa",
+      "group": "main",
+      "title": "Q&A-Log der Kritikerfragen",
+      "description": "Fragen-und-Antworten-Protokoll der 44 Kritiker-Fragen. Status je Frage: beantwortet, teilweise oder offen. Spalten: Nr., Frage, Status, Antwort, Beleg, Verantwortlich.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "Excel",
+          "filename": "03_QA_Log_Kritikerfragen.xlsx",
+          "relpath": "03_QA_Desk/03_QA_Log_Kritikerfragen.xlsx",
+          "viewUrl": "https://docs.google.com/spreadsheets/d/1nS26GAAilJlNKLRLDrHPuvubdTn_2AuL/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "desk-ablaufplan-investorenpaket-v1-0",
+      "zone": "desk",
+      "group": "main",
+      "title": "Ablaufplan Investorenpaket v1.0",
+      "description": "Phasen 1–3, Gating-Regel, Wochenplan und Gates 1–3. Wochenangaben sind Richtwerte.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_Satchifunga_Ablaufplan_Investorenpaket_v1.0.pdf",
+          "relpath": "04_Deal_Desk/01_Satchifunga_Ablaufplan_Investorenpaket_v1.0.pdf",
+          "viewUrl": "https://drive.google.com/file/d/11JjeFaTDLlQQUEyl07kuiq4YhWUdmTdD/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "01_Satchifunga_Ablaufplan_Investorenpaket_v1.0.docx",
+          "relpath": "04_Deal_Desk/01_Satchifunga_Ablaufplan_Investorenpaket_v1.0.docx",
+          "viewUrl": "https://docs.google.com/document/d/12ShXTd5aoPpYIo2mA9QfbWyWp_niJ6vT/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Excel",
+          "filename": "01_Satchifunga_Ablaufplan_Investorenpaket_v1.0.xlsx",
+          "relpath": "04_Deal_Desk/01_Satchifunga_Ablaufplan_Investorenpaket_v1.0.xlsx",
+          "viewUrl": "https://docs.google.com/spreadsheets/d/16OE2sphZ6_h428_5QTxBnkj6u-LHJucs/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "desk-gate-ubersicht",
+      "zone": "desk",
+      "group": "main",
+      "title": "Gate-Übersicht",
+      "description": "Zuordnung: Teaser und Letter of Intent nach Gate 1; vertiefte Prüfung (Information Memorandum, Technical Report, Neuantrag) nach Gate 2; Umsetzung nach erteiltem neuem Titel = Gate 3. Gate 1 ist nicht erreicht.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "02_Gate_Uebersicht.pdf",
+          "relpath": "04_Deal_Desk/02_Gate_Uebersicht.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1JF6z6qx4IjGxFJWKyLqM9u8lJK8UFbpr/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "02_Gate_Uebersicht.docx",
+          "relpath": "04_Deal_Desk/02_Gate_Uebersicht.docx",
+          "viewUrl": "https://docs.google.com/document/d/1vb7E-jwVCOkxSDbMBXTr4pyXGilFegIH/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "desk-entwurf-whatsapp-nachricht-an-sansao-augusto-englisch",
+      "zone": "desk",
+      "group": "main",
+      "title": "Entwurf WhatsApp-Nachricht an Sansão Augusto (Englisch)",
+      "description": "Wortlaut zum Kopieren, nicht versendet. Fordert nur amtliche Unterlagen für Ares Maximus LDA im portugiesischen Original an. Nur zur internen Verwendung.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nicht versendet)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "03_WhatsApp_Sansao_Augusto_EN.pdf",
+          "relpath": "04_Deal_Desk/03_WhatsApp_Sansao_Augusto_EN.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1FtduTeU2nH5jPeekF1h5NTM3N4LQPZuz/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "EN"
+        },
+        {
+          "label": "Word",
+          "filename": "03_WhatsApp_Sansao_Augusto_EN.docx",
+          "relpath": "04_Deal_Desk/03_WhatsApp_Sansao_Augusto_EN.docx",
+          "viewUrl": "https://docs.google.com/document/d/1QHM-hA4yt9SteWx72S5cLBI_WQjGmaX0/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "EN"
+        },
+        {
+          "label": "Text",
+          "filename": "03_WhatsApp_Sansao_Augusto_EN.txt",
+          "relpath": "04_Deal_Desk/03_WhatsApp_Sansao_Augusto_EN.txt",
+          "viewUrl": "https://drive.google.com/file/d/1YCcVux_TbCCaYdQ0hk9XBe7oTyH_mA1G/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "EN"
+        }
+      ]
+    },
+    {
+      "id": "luecken-due-diligence-anforderungsliste-v1-1",
+      "zone": "luecken",
+      "group": "main",
+      "title": "Due-Diligence-Anforderungsliste v1.1",
+      "description": "Vollständiges Gap Register, 76 Punkte, davon 26 mit Priorität A. Excel-Fassung zum Abhaken.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_Satchifunga_DD_Anforderungsliste_v1.1.pdf",
+          "relpath": "05_Gap_Register/01_Satchifunga_DD_Anforderungsliste_v1.1.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1vgsTU5PnF_7BYdIx0_AmNEe7_ods-1h0/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "01_Satchifunga_DD_Anforderungsliste_v1.1.docx",
+          "relpath": "05_Gap_Register/01_Satchifunga_DD_Anforderungsliste_v1.1.docx",
+          "viewUrl": "https://docs.google.com/document/d/1lOMew0tDe0rXp5OXZQMJ80LAxviQlCZa/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Excel",
+          "filename": "01_Satchifunga_DD_Anforderungsliste_v1.1.xlsx",
+          "relpath": "05_Gap_Register/01_Satchifunga_DD_Anforderungsliste_v1.1.xlsx",
+          "viewUrl": "https://docs.google.com/spreadsheets/d/1AWqkgna69gpyZM_TqKoPn5EHJqo1zST9/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "luecken-kurzliste-fehlender-unterlagen",
+      "zone": "luecken",
+      "group": "main",
+      "title": "Kurzliste fehlender Unterlagen",
+      "description": "In diesem Raum nicht vorhandene, aber erwartete Unterlagen (fehlende Behördenpapiere, Lücken in vorhandenen Urkunden, bewusst ausgeschlossene Liefergegenstände).",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "02_Fehlende_Unterlagen.pdf",
+          "relpath": "05_Gap_Register/02_Fehlende_Unterlagen.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1BUGvdlFc9q-LUzZ-ugoEPLBQLH2mr3-3/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "02_Fehlende_Unterlagen.docx",
+          "relpath": "05_Gap_Register/02_Fehlende_Unterlagen.docx",
+          "viewUrl": "https://docs.google.com/document/d/1SMougdV9X-noKdSNpsQ7KYhNft3hIRoa/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "quellen-faktendokument-v1-1",
+      "zone": "quellen",
+      "group": "main",
+      "title": "Faktendokument v1.1",
+      "description": "Maßgebliche interne Faktengrundlage. Enthält auch Zurückweisungen unzulässiger Altformulierungen. Nicht zur ungeprüften Weitergabe an Investoren vor Gate 1.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (intern)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "01_Satchifunga_Faktendokument_v1.1.pdf",
+          "relpath": "06_Source_Register_und_Disclosure/01_Satchifunga_Faktendokument_v1.1.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1BpAcNYDzEF3vD6OA8b9Zi7cl5IlJAwOo/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "01_Satchifunga_Faktendokument_v1.1.docx",
+          "relpath": "06_Source_Register_und_Disclosure/01_Satchifunga_Faktendokument_v1.1.docx",
+          "viewUrl": "https://docs.google.com/document/d/1K0AkFzgBZEYld_tto935fCRolRGqUfwX/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "quellen-gesamtbewertung-v1-0-nur-intern",
+      "zone": "quellen",
+      "group": "main",
+      "title": "Gesamtbewertung v1.0 – nur intern",
+      "description": "Interne Prüfschrift. Enthält die 44 Kritiker-Fragen und weist unbelegte Altangaben zurück. Nicht zur Weitergabe an Investoren. In der Investorenansicht nicht verlinkt.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (nur intern, Zone 06)",
+      "internalOnly": true,
+      "doNotUse": false,
+      "files": []
+    },
+    {
+      "id": "quellen-disclosure-boundary-memo",
+      "zone": "quellen",
+      "group": "main",
+      "title": "Disclosure Boundary Memo",
+      "description": "Kurzmemo zur Sprachgrenze gegenüber Investoren, ausschließlich auf Basis des Faktendokuments v1.1: keine Ressource und keine Reserve, Titel auf ENDIAMA Mining und abgelaufen, kein Betriebstitel, Umweltlizenz nicht belegt, Kimberlit nur MA-04 im Polygon.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (intern)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "PDF",
+          "filename": "03_Disclosure_Boundary_Memo.pdf",
+          "relpath": "06_Source_Register_und_Disclosure/03_Disclosure_Boundary_Memo.pdf",
+          "viewUrl": "https://drive.google.com/file/d/1X6_TZwUlN09BnAHs6M9s15OQzvDQlyiJ/view?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        },
+        {
+          "label": "Word",
+          "filename": "03_Disclosure_Boundary_Memo.docx",
+          "relpath": "06_Source_Register_und_Disclosure/03_Disclosure_Boundary_Memo.docx",
+          "viewUrl": "https://docs.google.com/document/d/1QliaambRb1lRo_KUypUWISMlwPKMcg9M/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    },
+    {
+      "id": "quellen-source-register",
+      "zone": "quellen",
+      "group": "main",
+      "title": "Source Register",
+      "description": "Verzeichnis jeder Datei in Zone 02 mit Aussteller, Datum, Sprache, Verlässlichkeitsgrad A/B/C und Einordnung Fakt, Annahme oder Behauptung.",
+      "grade": "C",
+      "kind": "Arbeitsdokument",
+      "reliabilityLabel": "C · Arbeitsdokument",
+      "status": "vorhanden (intern)",
+      "internalOnly": false,
+      "doNotUse": false,
+      "files": [
+        {
+          "label": "Excel",
+          "filename": "04_Source_Register.xlsx",
+          "relpath": "06_Source_Register_und_Disclosure/04_Source_Register.xlsx",
+          "viewUrl": "https://docs.google.com/spreadsheets/d/1aPEXRnhmKqe5JUfxPvL929D5o1wxsXlX/edit?usp=drivesdk",
+          "issuer": "interne Arbeitsunterlage",
+          "date": "17.11.2026",
+          "language": "DE"
+        }
+      ]
+    }
+  ]
+}
