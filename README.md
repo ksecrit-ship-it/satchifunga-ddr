@@ -100,7 +100,7 @@ Vor dem Push lokal prüfen:
 python3 tools/check_room.py
 ```
 
-Dieselbe Prüfung läuft im Pages-Workflow und bricht die Veröffentlichung ab, wenn sie fehlschlägt.
+Dieselbe Prüfung läuft im Pages-Workflow und bricht die Veröffentlichung ab, wenn sie fehlschlägt. Die verbotenen Formulierungen stehen im Skript nicht im Klartext: es vergleicht SHA-256-Hashes der casefolded Teilzeichenfolgen.
 
 ## Startseite ändern
 
